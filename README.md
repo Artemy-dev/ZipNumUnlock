@@ -1,7 +1,6 @@
-# Архиватор-парольщик (Zip/Rar/7z Password Cracker)
+# Zip/RAR/7z Numeric Password Cracker — CLI Tool on Python
 
-Скрипт для перебора числовых паролей (от 0 до 999999) к архивам форматов ZIP, RAR и 7z,  
-находящимся в текущей рабочей директории.
+**ZipNumUnlock** — это простой CLI-инструмент на Python для подбора числовых паролей (от `000000` до `999999`) к архивам форматов `.zip`, `.rar` и `.7z`. Поддерживает автоматический поиск архива в директории, работает на Windows, Linux и macOS.
 
 ---
 
@@ -96,10 +95,16 @@ python your_script_name.py
 ## Автор
 Artem Grachev<br>
 Дата: 06.2025<br>
-Версия: 1.06.25
+Версия: 1.06.25<br>
+Оригинальный проект: [github.com/Artemy-dev/ZipNumUnlock](https://github.com/Artemy-dev/ZipNumUnlock)
+
 
 ## Tags
 
 bruteforce, zip, rar, 7z, password recovery, unlock, python, archive, brute force, script, CLI, unzip, 
 numeric passwords, bruteforce zip password, 7z password cracker, extract encrypted archive, zip rar 7z brute, 
 numeric password unlock
+
+## SEO Keywords
+
+zip password cracker, rar unlock, 7z password recovery, python zip unlock, bruteforce zip, cli archive unlocker, extract password protected archive, python bruteforce tool, zipnumunlock, archive password breaker
