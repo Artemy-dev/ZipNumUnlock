@@ -1,4 +1,4 @@
-# 🚀 [ZipNumUnlock]([https://github.com/Artemy-dev/ProjectName](https://github.com/Artemy-dev/ZipNumUnlock))
+# 🚀 [ZipNumUnlock](https://github.com/Artemy-dev/ZipNumUnlock)
 
 ---
 
