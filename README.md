@@ -46,7 +46,7 @@ pip install -r requirements.txt
 * **macOS (через Homebrew):**
 
   ```bash
-  brew install unrar
+  brew install --cask rar
   ```
 
 * **Windows:**
@@ -82,7 +82,8 @@ python main.py
   * `pyzipper`
   * `rarfile`
   * `py7zr`
-
+* **Инструменты:**
+  * `unrar`
 ---
 
 ## 📄 License | Лицензия
