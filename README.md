@@ -4,8 +4,8 @@
 
 ## 📝 Description | Описание
 
-A simple Python CLI tool to brute-force numeric passwords (up to 6 digits) for ZIP, RAR, and 7z archives.<br>
-(Простой CLI-инструмент на Python для подбора числовых паролей (до 6 цифр) к архивам ZIP, RAR и 7z.)
+A simple Python **CLI tool** to **brute-force** numeric passwords (up to 6 digits) for **ZIP**, **RAR**, and **7z** archives.<br>
+(Простой **CLI-инструмент** на Python для **подбора числовых паролей** (до 6 цифр) к архивам **ZIP**, **RAR** и **7z**.)
 
 ---
 
