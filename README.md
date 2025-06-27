@@ -77,4 +77,4 @@ Python • Golang • Backend • AI/ML • Cybersecurity • Teaching
 
 ## 🔍 Keywords
 
-zip password cracker, rar unlock, 7z password recovery, python zip unlock, bruteforce zip, cli archive unlocker, extract password protected archive, python bruteforce tool, zipnumunlock, archive password breaker
+zip password cracker, rar unlock, 7z password recovery, python zip unlock, bruteforce zip, cli archive unlocker, extract password protected archive, python bruteforce tool, zipnumunlock, archive password breaker, cybersecurity, python script, password recovery, security audit tools
